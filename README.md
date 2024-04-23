@@ -1,6 +1,5 @@
 
-<h3 align='left'>Hi 🫰, I'm Greta Russi</h3>
-<h3 align="left">An aspiring Robotics Software Engineer from Italy, with background in Python Software Development, Deep Learning and Control Engineering</h3>
+<h3 align='left'>Hi 🫰, I'm Greta Russi, an aspiring Robotics Software Engineer from Italy, with background in Python Software Development, Deep Learning and Control Engineering</h3>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  -->
