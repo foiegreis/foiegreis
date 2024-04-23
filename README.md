@@ -9,7 +9,7 @@
 - I'm currently delving into **Modern Robotics, ROS2 and advanced algorithmic solutions tailored for autonomous systems (SLAM, Motion Planning, Sensor Fusion, Reinforcement Learning, Control**
  
 - 🦾 I have a **website** where I deep dive into robotics and I present my portfolio of projects, check it out at [roboticsunveiled.com](https://www.roboticsunveiled.com)
-![](https://github.com/foiegreis/foiegreis/imgs/Robotics Unveiled.png?raw=true)
+![](https://github.com/foiegreis/foiegreis/imgs/ru.png?raw=true)
 
 
 - 💼 I'm currently **looking for a job position as Robotic Software Engineer** in presence in **Seoul, South Korea** or remotely **anywhere** else
