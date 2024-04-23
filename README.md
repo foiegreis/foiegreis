@@ -1,5 +1,5 @@
 
-<h3 align='left'>Hi 🫰, I'm Greta Russi </h3>
+<h2 align='left'>Hi 🫰, I'm Greta Russi </h2>
 
 <h2 align='left'> A Robotics Software Engineer from Italy, with a background in Python Software Development, Deep Learning and Control Engineering </h2>
 
