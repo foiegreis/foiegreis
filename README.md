@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Greta Russi</h1>
-<h3 align="center">An aspiring Robotics Software Engineer from Italy, with background in Software Development and Control Engineering</h3>
+<h1 align='left'>Hi 👋, I'm Greta Russi</h1>
+<h3 align="left">An aspiring Robotics Software Engineer from Italy, with background in Software Development and Control Engineering</h3>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  -->
