@@ -6,13 +6,14 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  -->
  
- 
-- My main interests are **Modern Robotics, ROS2 and advanced algorithmic solutions tailored for autonomous systems (SLAM, Motion Planning, Sensor Fusion, Reinforcement Learning, Control)**
- 
-- 🦾 I have a **website** where I deep dive into robotics and I present my portfolio of projects, check it out at [roboticsunveiled.com](https://www.roboticsunveiled.com)
+ <h3 align='left'> I have a **website** where I deep dive into robotics and I present my portfolio of projects, check it out at [roboticsunveiled.com](https://www.roboticsunveiled.com)
 <p align="center">
-<img src="https://github.com/foiegreis/foiegreis/blob/main/imgs/ru3.png" alt="RoboticsUnveiled" width=40% height=40%>
-</p>
+<img src="https://github.com/foiegreis/foiegreis/blob/main/imgs/ru3.png" alt="RoboticsUnveiled" width=50% height=50%>
+</p> </h3>
+ 
+ 
+- 🦾 My main interests are **Modern Robotics, ROS2 and advanced algorithmic solutions tailored for autonomous systems (SLAM, Motion Planning, Sensor Fusion, Reinforcement Learning, Control)**
+ 
 
 - 💼 I'm currently **looking for a job position as Robotic Software Engineer** in presence in **Seoul, South Korea** or remotely **anywhere** else
 
