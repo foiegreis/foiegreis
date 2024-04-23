@@ -1,15 +1,17 @@
 
-<h3 align='left'>Hi, I'm Greta Russi</h3>
+<h3 align='left'>Hi 🫰, I'm Greta Russi</h3>
 <h3 align="left">An aspiring Robotics Software Engineer from Italy, with background in Python Software Development, Deep Learning and Control Engineering</h3>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  -->
  
  
-- I'm currently delving into **Modern Robotics, ROS2 and advanced algorithmic solutions tailored for autonomous systems (SLAM, Motion Planning, Sensor Fusion, Reinforcement Learning, Control**
+- My main interests are **Modern Robotics, ROS2 and advanced algorithmic solutions tailored for autonomous systems (SLAM, Motion Planning, Sensor Fusion, Reinforcement Learning, Control**
  
 - 🦾 I have a **website** where I deep dive into robotics and I present my portfolio of projects, check it out at [roboticsunveiled.com](https://www.roboticsunveiled.com)
-<img src="https://github.com/foiegreis/foiegreis/blob/main/imgs/ru2.png" width=40% height=40% align="center">
+<p align="center">
+<img src="https://github.com/foiegreis/foiegreis/blob/main/imgs/ru2.png" alt="RoboticsUnveiled" width=40% height=40%>
+</p>
 
 - 💼 I'm currently **looking for a job position as Robotic Software Engineer** in presence in **Seoul, South Korea** or remotely **anywhere** else
 
