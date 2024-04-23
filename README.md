@@ -11,7 +11,7 @@
  
 - 🦾 I have a **website** where I deep dive into robotics and I present my portfolio of projects, check it out at [roboticsunveiled.com](https://www.roboticsunveiled.com)
 <p align="center">
-<img src="https://github.com/foiegreis/foiegreis/blob/main/imgs/ru2.png" alt="RoboticsUnveiled" width=40% height=40%>
+<img src="https://github.com/foiegreis/foiegreis/blob/main/imgs/ru3.png" alt="RoboticsUnveiled" width=40% height=40%>
 </p>
 
 - 💼 I'm currently **looking for a job position as Robotic Software Engineer** in presence in **Seoul, South Korea** or remotely **anywhere** else
