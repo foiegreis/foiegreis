@@ -3,14 +3,15 @@
 
 <h2 align='left'> A Robotics Software Engineer from Italy, with a background in Python Software Development, Deep Learning and Control Engineering </h2>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
- -->
  
- <h3 align='left'> I have a **website** where I deep dive into robotics and I present my portfolio of projects, check it out at [roboticsunveiled.com](https://www.roboticsunveiled.com)
+I have a website where I deep dive into robotics and I present my portfolio of projects, check it out at [roboticsunveiled.com](https://www.roboticsunveiled.com)
 <p align="center">
 <img src="https://github.com/foiegreis/foiegreis/blob/main/imgs/ru3.png" alt="RoboticsUnveiled" width=50% height=50%>
-</p> </h3>
+</p> </h4>
+
  
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ -->
  
 - 🦾 My main interests are **Modern Robotics, ROS2 and advanced algorithmic solutions tailored for autonomous systems (SLAM, Motion Planning, Sensor Fusion, Reinforcement Learning, Control)**
  
