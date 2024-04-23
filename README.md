@@ -7,7 +7,7 @@
  -->
  
  
-- My main interests are **Modern Robotics, ROS2 and advanced algorithmic solutions tailored for autonomous systems (SLAM, Motion Planning, Sensor Fusion, Reinforcement Learning, Control**
+- My main interests are **Modern Robotics, ROS2 and advanced algorithmic solutions tailored for autonomous systems (SLAM, Motion Planning, Sensor Fusion, Reinforcement Learning, Control)**
  
 - 🦾 I have a **website** where I deep dive into robotics and I present my portfolio of projects, check it out at [roboticsunveiled.com](https://www.roboticsunveiled.com)
 <p align="center">
